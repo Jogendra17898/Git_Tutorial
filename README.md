@@ -17,7 +17,7 @@ Basic to Advanced Git Commands and Workflow.
 git init
 git add .
 git commit -m "first commit"
-git push origin main
+git push -u origin main
 ```
 
 ## Resources
